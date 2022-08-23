@@ -1,7 +1,7 @@
-<img src="https://i.gifer.com/81O8.gif" alt="Alt text" title="Optional title">
+
 <h1 align="center">Hi 👋, I'm Alisha Rana</h1>
 <h3 align="center">A passionate AI engineer who love to make machine think</h3>
-<img align="right" alt="Coding" width="400" src="https://i.gifer.com/JXA0.gif"">
+<img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/coding-concept-illustration_114360-939.jpg?w=740&t=st=1661292003~exp=1661292603~hmac=cef97e7a4d48be01134677fe27ea2ef191238e94f8e7675d8bf6a5afabcc7edf">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alisharana&label=Profile%20views&color=0e75b6&style=flat..." alt="alisharana" /> </p>
