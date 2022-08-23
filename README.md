@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alisharana&label=Profile%20views&color=0e75b6&style=flat..." alt="alisharana" /> </p>
 
-- 🔭 I’m currently working on **Arificial Inelligence**
+- 🔭 I’m currently working on **Artificial Intelligence**
 
 - 🌱 I’m currently learning **Cyber Security**
 
