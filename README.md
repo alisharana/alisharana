@@ -1,6 +1,13 @@
 
 <h1 align="center">Hi 👋, I'm Alisha Rana</h1>
 <h3 align="center">A passionate AI engineer who love to make machine think</h3>
+<p>A teenage entrepreneur, enthusiastic IT engineer, and tech advocate attracted by new tech developments.
+
+I enjoy dealing with data and creating AI models to forecast the future. I also enjoy coding, and I'm currently experimenting and playing around with cyber security.
+Additionally, I develop websites.
+I occasionally design for the web and apps to use my design skills. I have a big obsession with OOP principles and am currently attempting to grasp them.
+ I offer my assistance to students, encouraging them to learn and develop. Through my content creation on multiple platforms, 
+Since I have stronger team management instincts and good communication skills, I have been AI lead at Google Developer Students Club at my campus and serving as a Microsoft Learn Student Ambassador</p>
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/coding-concept-illustration_114360-939.jpg?w=740&t=st=1661292003~exp=1661292603~hmac=cef97e7a4d48be01134677fe27ea2ef191238e94f8e7675d8bf6a5afabcc7edf">
 
 
